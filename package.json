@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A mern shopping list application",
   "main": "server.js",
+  "homepage": ".",
   "scripts": {
     "client-install": "npm install --prefix client",
     "start": "node server.js",
